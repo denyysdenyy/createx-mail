@@ -1,6 +1,5 @@
 import express from 'express';
 import nodemailer from 'nodemailer';
-import path from 'path';
 import cors from 'cors'
 import nodemon from 'nodemon';
 
