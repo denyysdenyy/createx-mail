@@ -1,0 +1,11 @@
+{
+  "name": "createx-mail-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "develop": "node server.mjs"
+  },
+  "author": "Denis Bielikov",
+  "license": "ISC"
+}
